@@ -1,17 +1,16 @@
 # kuis
 
-A new Flutter project.
+Identitas mahasiswa:
+Nama    : Cindy Aulia
+Nim     : 241401033
+Lab     : 5
 
-## Getting Started
+Informasi Aplikasi:
+Nama Aplikasi               : Aplikasi sederhana pilihan ganda
+Deskripsi singkat Aplikasi  : Aplikasi sederhana untuk menjawab beberapa pertanyaan dan melihat scorenya di setelah menjawab pertanyaannya 
+Fitur-fitur yang tersedia   : Submit jawaban 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+c. Dokumentasi:
+i. Credit ke sumber-sumber aset yang digunakan.
+ii. Screenshot tiap page Aplikasi
+iii. Link mockup/prototype Aplikasi
