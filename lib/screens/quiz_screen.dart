@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:provider/provider.dart';
 import '../widgets/minecraft_background.dart';
 import '../widgets/minecraft_button.dart';
+import '../providers/quiz_provider.dart';
 
 class QuizScreen extends StatelessWidget {
   const QuizScreen({super.key});
@@ -18,7 +20,8 @@ class QuizScreen extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             children: [
               Text(
-                'KUIS',
+                'HALO, ${context.watch<QuizProvider>().playerName.toUpperCase()}!',
+                textAlign: TextAlign.center,
                 style: TextStyle(color: Colors.white, fontSize: titleSize),
               ),
               SizedBox(height: size.height * 0.05),
