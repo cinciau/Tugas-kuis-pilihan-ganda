@@ -44,8 +44,8 @@ lib/
 
 | Aset | Sumber |
 |------|--------|
-| Gambar background | ![Uploading bg_mc.jpe…]() |
-| Font Press Start 2P | Google Fonts, karya CodeMan38, lisensi SIL Open Font License |
+| Gambar background | https://id.pinterest.com/pin/931048922992720754/ |
+| Font Press Start 2P |https://fonts.google.com/specimen/Press+Start+2P |
 | Ikon (trofi) | Material Icons bawaan Flutter |
 
 ### ii. Screenshot Tiap Halaman
