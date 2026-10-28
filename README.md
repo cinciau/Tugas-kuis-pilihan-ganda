@@ -46,18 +46,9 @@ lib/
 |------|--------|
 | Gambar background | https://id.pinterest.com/pin/931048922992720754/ |
 | Font Press Start 2P |https://fonts.google.com/specimen/Press+Start+2P |
-| Ikon (trofi) | Material Icons bawaan Flutter |
 
 ### ii. Screenshot Tiap Halaman
-
-| Welcome | Input Nama |
-|---------|------------|
-| ![Welcome](docs/screenshots/welcome.png) | ![Nama](docs/screenshots/name.png) |
-
-| Kuis | Hasil |
-|------|-------|
-| ![Kuis](docs/screenshots/quiz.png) | ![Hasil](docs/screenshots/result.png) |
-
+https://drive.google.com/drive/folders/1c0BFTVnbc-dpfa3HxoWTf3x2HyIkL84v?usp=sharing
 ### iii. Link Mockup/Prototype
 
 ...
