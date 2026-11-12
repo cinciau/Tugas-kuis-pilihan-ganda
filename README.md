@@ -51,4 +51,4 @@ lib/
 https://drive.google.com/drive/folders/1c0BFTVnbc-dpfa3HxoWTf3x2HyIkL84v?usp=sharing
 ### iii. Link Mockup/Prototype
 
-[...](https://www.figma.com/design/51D9IatM5Jkfl6pdCzKkZ3/Event-kampus?node-id=0-1&t=tUbhf4wxCDWUNRqz-1)
+[LINK FIGMA](https://www.figma.com/design/51D9IatM5Jkfl6pdCzKkZ3/Event-kampus?node-id=0-1&t=tUbhf4wxCDWUNRqz-1)
